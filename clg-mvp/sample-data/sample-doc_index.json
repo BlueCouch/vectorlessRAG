@@ -1,0 +1,73 @@
+{
+  "source": "D:\\code\\learnCode\\ai30days\\vectorless\\hoopa\\sample-data\\sample-doc.md",
+  "model": "llama3:latest",
+  "created_at": "2026-04-29T10:34:57.056Z",
+  "total_pages": 6,
+  "tree": {
+    "title": "Microservices Architecture",
+    "start_page": 1,
+    "end_page": 6,
+    "summary": "A comprehensive guide to microservices architecture, covering its principles, benefits, and challenges.",
+    "children": [
+      {
+        "title": "Introduction",
+        "start_page": 1,
+        "end_page": 2,
+        "summary": "An overview of the microservices architecture concept and its importance in modern software development.",
+        "children": [],
+        "node_id": "0.1"
+      },
+      {
+        "title": "Principles",
+        "start_page": 3,
+        "end_page": 4,
+        "summary": "The core principles of microservices, including single responsibility, loose coupling, independent deployment, and data ownership.",
+        "children": [
+          {
+            "title": "Single Responsibility",
+            "start_page": 3,
+            "end_page": 3,
+            "summary": "The concept of a service having a single responsibility and how it relates to the overall architecture.",
+            "children": [],
+            "node_id": "0.2.1"
+          },
+          {
+            "title": "Loose Coupling",
+            "start_page": 4,
+            "end_page": 4,
+            "summary": "How services should be designed to minimize dependencies and improve scalability.",
+            "children": [],
+            "node_id": "0.2.2"
+          }
+        ],
+        "node_id": "0.2"
+      },
+      {
+        "title": "Benefits",
+        "start_page": 5,
+        "end_page": 6,
+        "summary": "The advantages of adopting microservices architecture, including increased scalability, faster development, and improved fault tolerance.",
+        "children": [
+          {
+            "title": "Scalability",
+            "start_page": 5,
+            "end_page": 5,
+            "summary": "How microservices enable services to be scaled independently, improving overall system performance.",
+            "children": [],
+            "node_id": "0.3.1"
+          },
+          {
+            "title": "Faster Development",
+            "start_page": 6,
+            "end_page": 6,
+            "summary": "The benefits of using microservices for faster development and deployment cycles.",
+            "children": [],
+            "node_id": "0.3.2"
+          }
+        ],
+        "node_id": "0.3"
+      }
+    ],
+    "node_id": "0"
+  }
+}
